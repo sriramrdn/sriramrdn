@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sriramrdn
 - 👀 I’m interested in Full Stack Java Development
-- 🌱 I’m currently learning Angular Framework
-- 💞️ I’m looking to collaborate on Full Stack Java application with Angular.
+- 🌱 I’m currently having expertise on Java spring frameworks, React,Oracle sql, AWS
+- 💞️ I’m looking to collaborate on Full Stack Java application with React.
 - 📫 You can reach me on sriramrdn1996@gmail.com
 
 <!---
